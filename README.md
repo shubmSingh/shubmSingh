@@ -4,6 +4,10 @@
  -> <i>I'm Currently Pursuing Master of Computer Apllications from UNIVERSITY OF HYDERABAD</i>
  <br>
  -> <i>I'm Skilled in Data Structure and Algorithm and Application Development and I've good learning curve in Machine learning
+ <br>
+ -> <i>I'm Currently Learning Machine learning
+ <br>
+ -> 
 <!--
 **shubmSingh/shubmSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
