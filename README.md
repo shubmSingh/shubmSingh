@@ -2,6 +2,7 @@
  <b>I'm Shubham singh </b>! [Check Out My Potrtfolio ](https://shubmsingh.github.io/Shubhamsingh.github.io/)
  
  -> <i>I'm Currently Pursuing Master of Computer Apllications from UNIVERSITY OF HYDERABAD</i>
+ <br>
  -> <i>I'm Skilled in Data Structure and Algorithm and Application Development and I've good learning curve in Machine learning
 <!--
 **shubmSingh/shubmSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
