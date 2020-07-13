@@ -1,5 +1,7 @@
 ### Hi there 👋
  I'm Shubham singh ! [Check Out My Potrtfolio ](https://shubmsingh.github.io/Shubhamsingh.github.io/)
+ 
+ <i>I am Currently</i>
 <!--
 **shubmSingh/shubmSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
