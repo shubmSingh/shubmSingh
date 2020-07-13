@@ -1,5 +1,5 @@
 ### Hi there 👋
- I'm Application Developer | [Check Out My Potrtfolio] (https://shubmsingh.github.io/Shubhamsingh.github.io/)
+ I'm Application Developer ! [Check Out My Potrtfolio !] (https://shubmsingh.github.io/Shubhamsingh.github.io/)
 <!--
 **shubmSingh/shubmSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
