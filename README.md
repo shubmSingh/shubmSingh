@@ -1,11 +1,11 @@
 ### Hi there 👋
  <b>I'm Shubham singh </b>! [Check Out My Potrtfolio ](https://shubmsingh.github.io/Shubhamsingh.github.io/)
  
- -> <i>I'm Currently Pursuing Master of Computer Apllications from <b>UNIVERSITY OF HYDERABAD</b></i>
+ -> <i>I'm Currently Pursuing Master of Computer Apllications from <style color=#d8112c;><b>UNIVERSITY OF HYDERABAD</b></style</i>
  <br>
- -> <i>I'm Skilled in Data Structure and Algorithm and Application Development and I've good learning curve in Machine learning
+ -> <i>I'm Skilled in Data Structure and Algorithm and Application Development and I've good learning curve in Machine learning</i>
  <br>
- -> <i>I'm Currently Learning AI,Machine learning
+ -> <i>I'm Currently Learning Machine learning
  <br>
  -> I’m looking for an opportunity to work with a company where i can boost up my knowledge and skills.
  <br>
