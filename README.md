@@ -7,6 +7,8 @@
  <br>
  -> <i>I'm Currently Learning AI,Machine learning
  <br>
+ -> I’m looking for an opportunity to work with a company where i can boost up my knowledge and skills.
+ <br
  -> I've a passion for learning and sharing my Knowledge with other as publicly as Possible .If you find value in something i have created , 
      please feel free to give me a shout on [Email !](Shubhammcmt@gmail.com)  
 <!--
