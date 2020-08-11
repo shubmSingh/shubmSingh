@@ -4,7 +4,7 @@
  
  -> <i>I'm Currently Pursuing Master of Computer Apllications from </i><b>UNIVERSITY OF HYDERABAD</b>
  <br>
- -> <i>I'm Skilled in Data Structure and Algorithm and Application Development and I've good learning curve in Machine learning</i>
+ -> <i>I'm Skilled in Data Structure and Algorithm</i>
  <br>
  -> <i>I'm Currently Learning Machine learning
  <br>
@@ -12,6 +12,10 @@
  <br>
  -> I've a passion for learning and sharing my Knowledge with other as publicly as Possible .If you find value in something i have created , 
      please feel free to give me a shout on [Email !](Shubhammcmt@gmail.com)  
+ <br>
+ <br>
+ <br>
+ <strong>Language and Tools</strong>
 <!--
 **shubmSingh/shubmSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
