@@ -6,7 +6,7 @@
  <br>
  -> <i>I'm Skilled in Data Structure and Algorithm</i>
  <br>
- -> <i>I'm Currently Learning Machine learning
+ -> <i>I'm Currently Learning Java Framework SpringBoot and Hibernate . . . . .
  <br>
  -> I’m looking for an opportunity to work with a company where i can boost up my knowledge and skills.
  <br>
