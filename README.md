@@ -15,10 +15,10 @@
  <br>
  <br>
  <strong>Language and Tools</strong>
- <p>Java | C++  | C | Python | HTML | CSS | PHP | MySql | Bootstrap | Javascript | SpringBoot | Hibernate </p>
+ <p>Java | C++  | C | Python | HTML | CSS | PHP | MySql | Bootstrap | Javascript | SpringBoot | MVC | Hibernate </p>
 <!--
 **shubmSingh/shubmSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ |||
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
