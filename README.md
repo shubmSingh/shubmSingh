@@ -2,6 +2,8 @@
 ### Hi there 👋
  <b>I'm Shubham singh </b>! [Check Out My Potrtfolio ]<!--(https://shubmsingh.github.io/Shubhamsingh.github.io/)
  -->
+ <br>
+ <br>
  -> <i>I'm Currently Pursuing Master of Computer Apllications from </i><b>UNIVERSITY OF HYDERABAD</b>
  <br>
  -> <i>I'm Skilled in Data Structure and Algorithm</i>
