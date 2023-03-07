@@ -4,7 +4,7 @@
  -->
  <br>
  <br>
- -> <i>I'm Currently Working as Software Engineer at </i><b>Jocata</b>
+ -> <i>I'm Currently Working as Software Engineer at </i><b>ABC</b>
  <br>
  -> <i>I'm Skilled in Data Structure, Algorithm and backend Development</i>
  <br>
@@ -17,7 +17,7 @@
  <br>
  <br>
  <strong>Language and Tools</strong>
- <p>Java | C++  | C | Python | HTML | CSS | Angular | PHP | MySql | Bootstrap | Javascript | SpringBoot | MVC | Hibernate | MAVEN | Microservices | REST API | KrakenD | Jenkins | Docker </p>
+ <p>Java | Java8 | C++  | C | Python | HTML | CSS | Angular | PHP | MySql | Bootstrap | Javascript | SpringBoot | MVC | Hibernate | MAVEN | Microservices | REST API | KrakenD | Jenkins | Docker </p>
 <!--
 **shubmSingh/shubmSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  |||
