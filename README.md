@@ -1,7 +1,7 @@
 
 ### Hi, I'm Shubham 👋
 
-[shubham](https://shubmsingh.github.io/Shubhamsingh.github.io/)
+[shubham-portfolio](https://shubmsingh.github.io/Shubhamsingh.github.io/)
 
  -> <i>I'm Currently Working as Software Engineer at </i><b>ABC</b>
  <br>
