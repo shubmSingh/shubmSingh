@@ -4,7 +4,7 @@
  -->
  <br>
  <br>
- -> <i>I'm Currently as Software Engineer at </i><b>Jocata</b>
+ -> <i>I'm Currently Working as Software Engineer at </i><b>Jocata</b>
  <br>
  -> <i>I'm Skilled in Data Structure, Algorithm and backend Development</i>
  <br>
