@@ -1,18 +1,15 @@
 
 ### Hi, I'm Shubham 👋
 
+[shubham](https://shubmsingh.github.io/Shubhamsingh.github.io/)
 
-<br>
  -> <i>I'm Currently Working as Software Engineer at </i><b>ABC</b>
  <br>
- -> <i>I'm Skilled in Data Structure, Algorithm and backend Development</i>
  <br>
- -> <i>I'm Currently Working on Java, SpringBoot, MVC, Jpa and Hibernate, Maven, docker, JSON, KrakenD, Rest API, Microservices . . . . .
- <br>
- <br>
- -> I've a passion for learning and sharing my Knowledge with other as publicly as Possible .If you find value in something i have created , 
-     please feel free to give me a shout on [Email !](Shubhammcmt@gmail.com)  
- <br>
+ -> <i> A passionate backend developer and a software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</i>
+ 
+ - 💼 any freelance work? do reach, [Email !](mailto:Shubhammcmt@gmail.com) :)
+ - 💬 ask me about anything, i am happy to help;
  <br>
  <br>
  <strong>Language and Tools</strong>
