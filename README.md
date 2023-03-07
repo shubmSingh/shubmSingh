@@ -4,11 +4,11 @@
  -->
  <br>
  <br>
- -> <i>I'm Currently Pursuing Master of Computer Apllications from </i><b>UNIVERSITY OF HYDERABAD</b>
+ -> <i>I'm Currently as Software Engineer at </i><b>Jocata</b>
  <br>
- -> <i>I'm Skilled in Data Structure and Algorithm</i>
+ -> <i>I'm Skilled in Data Structure, Algorithm and backend Development</i>
  <br>
- -> <i>I'm Currently Working on Java, SpringBoot, MVC, Jpa and Hibernate, Maven . . . . .
+ -> <i>I'm Currently Working on Java, SpringBoot, MVC, Jpa and Hibernate, Maven, docker, JSON, KrakenD, Rest API, Microservices . . . . .
  <br>
  <br>
  -> I've a passion for learning and sharing my Knowledge with other as publicly as Possible .If you find value in something i have created , 
