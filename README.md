@@ -1,6 +1,6 @@
 
-### Hi there 👋
- <b>I'm Shubham singh </b>! [Check Out My Potrtfolio ]<!--(https://shubmsingh.github.io/Shubhamsingh.github.io/)
+### Hi, I'm Shubham 👋
+<!--  <b>I'm Shubham singh </b>! [Check Out My Potrtfolio ]<!--(https://shubmsingh.github.io/Shubhamsingh.github.io/) -->
  -->
  <br>
  <br>
