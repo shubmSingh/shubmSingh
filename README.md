@@ -1,9 +1,8 @@
 
 ### Hi, I'm Shubham 👋
 <!--  <b>I'm Shubham singh </b>! [Check Out My Potrtfolio ]<!--(https://shubmsingh.github.io/Shubhamsingh.github.io/) -->
- -->
- <br>
- <br>
+<!--  --> -->
+<br>
  -> <i>I'm Currently Working as Software Engineer at </i><b>ABC</b>
  <br>
  -> <i>I'm Skilled in Data Structure, Algorithm and backend Development</i>
