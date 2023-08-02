@@ -8,7 +8,7 @@
  <br>
  -> <i> A passionate backend developer and a software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</i>
  
- - 💼 any freelance work? do reach, [Email !](mailto:Shubhammcmt@gmail.com) :)
+ <!-- 💼 any freelance work? do reach, [Email !](mailto:Shubhammcmt@gmail.com) :) -->
  - 💬 ask me about anything, i am happy to help;
  <br>
  <br>
