@@ -1,30 +1,53 @@
+### 👋 Hello, I'm Shubham Singh
 
-### Hi, I'm Shubham 👋
+🚀 **Backend Engineer | Java, Spring Boot, Microservices | Cloud-Native Systems**  
+🌍 India | 💼 Currently at **Backbase**
 
-[shubham-portfolio](https://shubmsingh.github.io/Shubhamsingh.github.io/)
+---
 
- -> <i>I'm Currently Working as Software Engineer at </i><b>ABC</b>
- <br>
- <br>
- -> <i> A passionate backend developer and a software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</i>
- 
- <!-- 💼 any freelance work? do reach, [Email !](mailto:Shubhammcmt@gmail.com) :) -->
- - 💬 ask me about anything, i am happy to help;
- <br>
- <br>
- <strong>Language and Tools</strong>
- <p>Java 8,17,21 | Spring Boot | Hibernate | JPA | Microservices | MVC | Mavne | REST API | KrakenD | Jenkins | Docker | Design Pattern  | Kubenrate | AzureData Studio | Git | ArgoCd | DataDog | </p>
-<!--
-**shubmSingh/shubmSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- |||
-Here are some ideas to get you started:
+I’m a passionate Software Engineer with **3.8+ years** of experience in Java Backend Development. I specialize in building scalable, secure, and high-performance backend systems using Java, Spring Boot, and Microservices. I love writing clean, maintainable code and solving real-world engineering challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Technologies
+
+- ☕ **Java (8, 17, 21)** – Strong foundation in object-oriented programming and backend logic  
+- 🌱 **Spring & Spring Boot** – RESTful API development, dependency injection, configuration, and more  
+- 🗄️ **Databases** – MySQL, PostgreSQL, MongoDB (schema design, indexing, query optimization)  
+- 🔐 **Security** – Spring Security & Keycloak for authentication and authorization  
+- 🧱 **Microservices** – Designed and deployed distributed services architecture  
+- 🐳 **Docker** – Containerization for seamless development and deployment  
+- ☸️ **Kubernetes** – Service orchestration and scaling in cloud environments  
+- 📬 **Apache Kafka** – Event-driven systems and asynchronous messaging  
+- ☁️ **Cloud Platforms** – Azure (AKS, App Services, Container Instances)  
+- 🔧 **DevOps & CI/CD** – Jenkins, GitHub Actions, Terraform, ArgoCD, Git  
+- 📘 **API Documentation** – Swagger/OpenAPI for collaborative development  
+- 🧩 **Design Patterns** – Clean architecture and maintainable code practices  
+
+---
+
+### 🎓 Education  
+📚 **Master of Computer Applications**  
+🏫 *University of Hyderabad, 2021*
+
+---
+
+### 🚀 Currently Exploring  
+- ☁️ **AWS** – Expanding cloud expertise beyond Azure  
+- 📈 **Distributed Systems** – Deeper understanding of large-scale architectures  
+- 🧠 **System Design & DSA** – Always sharpening problem-solving skills
+
+---
+
+### 🤝 Let's Connect!
+- 🌐 [Portfolio](https://shubmsingh.github.io/Shubhamsingh.github.io/)  
+- 📧 [Email](mailto:Shubhammcmt@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
+
+---
+
+> *"Clean code, scalable systems, and thoughtful architecture — that's how I build software."*
+
+---
+
+👀 Thanks for visiting my GitHub! Let’s build something amazing together. ✨
