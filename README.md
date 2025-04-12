@@ -13,7 +13,7 @@
  <br>
  <br>
  <strong>Language and Tools</strong>
- <p>Java | Java8 | C++  | C | Python | HTML | CSS | Angular | PHP | MySql | Bootstrap | Javascript | SpringBoot | MVC | Hibernate | MAVEN | Microservices | REST API | KrakenD | Jenkins | Docker | Design Pattern </p>
+ <p>Java 8,17,21 | Spring Boot | Hibernate | JPA | Microservices | MVC | Mavne | REST API | KrakenD | Jenkins | Docker | Design Pattern  | Kubenrate | AzureData Studio | Git | ArgoCd | DataDog | </p>
 <!--
 **shubmSingh/shubmSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  |||
