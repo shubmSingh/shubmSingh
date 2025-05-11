@@ -5,7 +5,7 @@
 
 ---
 
-I’m a passionate Software Engineer with **3.8+ years** of experience in Java Backend Development. I specialize in building scalable, secure, and high-performance backend systems using Java, Spring Boot, and Microservices. I love writing clean, maintainable code and solving real-world engineering challenges.
+I’m a passionate Software Engineer with **4+ years** of experience in Java Backend Development. I specialize in building scalable, secure, and high-performance backend systems using Java, Spring Boot, and Microservices. I love writing clean, maintainable code and solving real-world engineering challenges.
 
 ---
 
