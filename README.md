@@ -1,10 +1,10 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:164E63,100:2563EB&height=230&section=header&text=Shubham%20Singh&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20AI%20Engineering&descSize=18&descAlignY=60" width="100%" alt="Shubham Singh banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:164E63,100:2563EB&height=230&section=header&text=Shubham%20Singh&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=false"/>
 
 <a href="https://github.com/shubmSingh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=45&lines=I+build+backends+that+scale+and+don't+fall+over;10M%2B+events%2Fday+%C2%B7+sub-500ms+streaming+latency;Java+21+%C2%B7+Spring+Boot+%C2%B7+Kafka+%C2%B7+Flink;Now+exploring+LLMs%2C+RAG+%26+MCP" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=45&lines=I+build+backends+that+scale;Java+%7C+Spring+Boot+%7C+Microservices;Distributed+systems+that+stay+reliable;Always+learning+and+building"/>
 </a>
 
 <br/><br/>
@@ -29,7 +29,7 @@
 
 <a href="https://shubmsingh.github.io/Shubhamsingh.github.io/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:Shubhammcmt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/your-link-here"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shubham-singh-8b05b8184/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=shubmSingh&label=Profile+Views&color=2563EB&style=flat-square"/>
 
 </div>
@@ -61,7 +61,7 @@
 
 I'm a **Backend Software Engineer** who designs and runs production systems that need to be **fast, reliable and easy to operate**.
 
-My day-to-day: event-driven microservices, stream processing, API design, performance tuning, and making sure systems behave well when things go wrong. I'm also exploring how **LLMs, RAG and agentic workflows** can plug into real backend systems.
+My day-to-day: event-driven microservices, stream processing, API design, performance tuning, and making sure systems behave well when things go wrong. I'm also exploring how **LLMs, RAG and agentic workflows** can fit into modern backend engineering.
 
 - ⚙️ Enterprise backends with **Java 21 + Spring Boot**
 - 🔄 Real-time pipelines with **Kafka + Apache Flink**
@@ -128,27 +128,25 @@ flowchart LR
 
 ## 🚀 Featured Projects
 
-<!-- Replace the repo names/descriptions below with your real projects. Delete this comment. -->
-
 <div align="center">
 
-<a href="https://github.com/shubmSingh/YOUR-REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubmSingh&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/shubmSingh/Microservices">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubmSingh&repo=Microservices&theme=tokyonight&hide_border=true"/>
 </a>
-<a href="https://github.com/shubmSingh/YOUR-REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubmSingh&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/shubmSingh/ProductService">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubmSingh&repo=ProductService&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/shubmSingh/YOUR-REPO-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubmSingh&repo=YOUR-REPO-3&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/shubmSingh/CrudApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubmSingh&repo=CrudApp&theme=tokyonight&hide_border=true"/>
 </a>
-<a href="https://github.com/shubmSingh/YOUR-REPO-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubmSingh&repo=YOUR-REPO-4&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/shubmSingh/CabBooking-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubmSingh&repo=CabBooking-&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
 
-**Ideas worth showcasing:** a Kafka + Spring Boot event-driven demo · a Flink streaming job · a rate limiter / circuit-breaker example · a RAG or MCP experiment with a Java backend.
+**Notable strengths:** backend APIs, Java Spring services, database interactions, and service design patterns.
 
 ---
 
