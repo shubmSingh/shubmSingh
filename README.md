@@ -1,45 +1,82 @@
+<div align="center">
+
 # Shubham Singh
 
-## Backend Software Engineer | Java Developer | Spring Boot | Microservices
+### Backend Software Engineer · Java · Spring Boot · Distributed Systems
 
-Backend software engineer focused on Java application development, Spring Boot, REST API development, and microservice-based systems. Interested in building reliable, maintainable backend applications and growing further in distributed systems and cloud-native engineering.
+Building reliable, scalable backend services and cloud-native platforms.
 
-**Target roles:** Backend Software Engineer, Java Developer, Java Backend Engineer, Spring Boot Developer, Microservices Engineer.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://shubmsingh.github.io/Shubhamsingh.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-singh-8b05b8184/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Shubhammcmt@gmail.com)
 
-**Contact:** [Email](mailto:Shubhammcmt@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shubham-singh-8b05b8184/) | [Portfolio](https://shubmsingh.github.io/Shubhamsingh.github.io/) | [GitHub](https://github.com/shubmSingh)
+</div>
 
-## Technical Skills
+---
 
-- **Programming languages:** Java, JavaScript, C++, SQL
-- **Backend development:** Spring Boot, REST APIs, microservices, Hibernate, API integration
-- **Databases and data:** MySQL, relational database design, CRUD operations
-- **Messaging and distributed systems:** Apache Kafka, event-driven architecture
-- **Cloud and DevOps:** AWS, Docker, Kubernetes, CI/CD
-- **Software engineering:** object-oriented programming, design patterns, data structures and algorithms, testing, exception handling, debugging, Git
+## About me
 
-## Projects
+I'm a backend software engineer with **4+ years of experience** building Java applications, event-driven microservices, and cloud-native systems. My work spans financial technology, streaming data, API design, and production operations. I enjoy making backend systems easier to scale, operate, and maintain.
+
+- Currently working as a **Software Engineer II at J.P. Morgan Chase & Co.**
+- Experience with Apache Flink and Spring Boot services processing **10M+ transactions per day**.
+- Previously built digital banking services at **Backbase** and lending workflows at **Jocata**.
+- Focus areas: **Java, Spring Boot, Kafka, distributed systems, AWS, and Kubernetes**.
+
+## Technical toolkit
+
+| Area | Technologies |
+| --- | --- |
+| Languages | Java, JavaScript, C++, SQL |
+| Backend | Spring Boot, Spring Security, REST APIs, microservices, Hibernate, JDBC |
+| Streaming & caching | Apache Kafka, Apache Flink, Redis |
+| Cloud & delivery | AWS, Docker, Kubernetes, EKS, Helm, Terraform, CI/CD |
+| Data | MySQL, PostgreSQL, Oracle, SQL optimization |
+| Engineering | Distributed systems, event-driven architecture, API design, testing, observability |
+
+## Selected projects
 
 ### [Microservices](https://github.com/shubmSingh/Microservices)
-A Java repository focused on microservices concepts and implementation. See the repository for the specific services and technologies included.
+Java project exploring microservice architecture and distributed application design.
 
-### [Cab Booking](https://github.com/shubmSingh/CabBooking-)
-Standalone Java application for vehicle booking. Includes signup and login functionality, booking flows, and passenger record management.
+### [ProductService](https://github.com/shubmSingh/ProductService)
+Backend product service demonstrating API structure and business-domain logic.
 
 ### [Weather App](https://github.com/shubmSingh/WeatherApp-using-API)
-Weather application that accepts a user query, calls a weather API, and displays the returned information in a browser.
+Weather application that takes a user query, calls a weather API, and displays the results in a browser.
 
 ### [8 Puzzle](https://github.com/shubmSingh/8-Puzzle)
 Java implementation of the N-puzzle problem using the A* search algorithm.
+
+### [Cab Booking](https://github.com/shubmSingh/CabBooking-)
+Standalone Java booking application with user registration, trip booking, and passenger record management.
+
+[Explore more projects on GitHub →](https://github.com/shubmSingh?tab=repositories)
+
+## Experience
+
+- **Software Engineer II — J.P. Morgan Chase & Co.** · Apr 2025–Present  
+  Building Apache Flink streaming pipelines and Spring Boot microservices on AWS EKS for high-throughput financial workloads.
+- **Backend Engineer — Backbase** · Jan 2024–Apr 2025  
+  Delivered digital banking services for EverBank, including Positive Pay, Limits Management, and Remote Deposit Capture.
+- **Associate Software Engineer — Jocata Financial Advisory & Technology** · Aug 2021–Dec 2023  
+  Built Java and Spring Boot services for retail lending and OCEN-based lending workflows.
 
 ## Certifications
 
 - AWS Certified Solutions Architect – Associate
 - Backbase Backend Engineering Certified
 
-## Professional Interests
+## Find me
 
-Java backend development, Spring Boot, RESTful web services, microservices architecture, event-driven systems, Apache Kafka, AWS, cloud-native applications, and distributed systems.
+- **Portfolio:** [shubmsingh.github.io/Shubhamsingh.github.io](https://shubmsingh.github.io/Shubhamsingh.github.io/)
+- **LinkedIn:** [Shubham Singh](https://www.linkedin.com/in/shubham-singh-8b05b8184/)
+- **Email:** [Shubhammcmt@gmail.com](mailto:Shubhammcmt@gmail.com)
 
-## Additional Learning
+---
 
-Currently learning about LLM application architecture, retrieval-augmented generation (RAG), and the Model Context Protocol (MCP).
+<div align="center">
+
+*Thanks for visiting — feel free to explore my repositories or get in touch.*
+
+</div>
