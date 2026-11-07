@@ -1,46 +1,45 @@
 # Shubham Singh
 
-**Backend Software Engineer | Java · Spring Boot · Microservices · Distributed Systems**
+## Backend Software Engineer | Java Developer | Spring Boot | Microservices
 
-I build backend services and APIs, with a focus on clear service design, reliable data handling, and maintainable code. My work and learning center on Java/Spring, microservices, messaging, and cloud-native engineering.
+Backend software engineer focused on Java application development, Spring Boot, REST API development, and microservice-based systems. Interested in building reliable, maintainable backend applications and growing further in distributed systems and cloud-native engineering.
 
-[Portfolio](https://shubmsingh.github.io/Shubhamsingh.github.io/) · [LinkedIn](https://www.linkedin.com/in/shubham-singh-8b05b8184/) · [Email](mailto:Shubhammcmt@gmail.com)
+**Target roles:** Backend Software Engineer, Java Developer, Java Backend Engineer, Spring Boot Developer, Microservices Engineer.
 
-## Focus areas
+**Contact:** [Email](mailto:Shubhammcmt@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shubham-singh-8b05b8184/) | [Portfolio](https://shubmsingh.github.io/Shubhamsingh.github.io/) | [GitHub](https://github.com/shubmSingh)
 
-- **Backend:** Java, Spring Boot, REST APIs, microservices
-- **Data:** SQL, Hibernate, relational database design
-- **Messaging & distributed systems:** Kafka, event-driven design
-- **Cloud & delivery:** AWS, Docker, Kubernetes, CI/CD
-- **Engineering practices:** testing, API design, error handling, maintainability
+## Technical Skills
 
-> I’m particularly interested in backend and Java engineering roles. Please see my repositories for examples of my projects; project scope and technologies are described in each repository where available.
+- **Programming languages:** Java, JavaScript, C++, SQL
+- **Backend development:** Spring Boot, REST APIs, microservices, Hibernate, API integration
+- **Databases and data:** MySQL, relational database design, CRUD operations
+- **Messaging and distributed systems:** Apache Kafka, event-driven architecture
+- **Cloud and DevOps:** AWS, Docker, Kubernetes, CI/CD
+- **Software engineering:** object-oriented programming, design patterns, data structures and algorithms, testing, exception handling, debugging, Git
 
-## Selected projects
+## Projects
 
-| Project | Overview |
-|---|---|
-| [Microservices](https://github.com/shubmSingh/Microservices) | Microservices learning and implementation repository. |
-| [Cab Booking](https://github.com/shubmSingh/CabBooking-) | Standalone Java application for vehicle booking and passenger records. |
-| [Weather App](https://github.com/shubmSingh/WeatherApp-using-API) | Weather application that accepts a query, calls a weather API, and displays results in a browser. |
-| [8 Puzzle](https://github.com/shubmSingh/8-Puzzle) | Java implementation of the N-puzzle problem using the A* algorithm. |
+### [Microservices](https://github.com/shubmSingh/Microservices)
+A Java repository focused on microservices concepts and implementation. See the repository for the specific services and technologies included.
+
+### [Cab Booking](https://github.com/shubmSingh/CabBooking-)
+Standalone Java application for vehicle booking. Includes signup and login functionality, booking flows, and passenger record management.
+
+### [Weather App](https://github.com/shubmSingh/WeatherApp-using-API)
+Weather application that accepts a user query, calls a weather API, and displays the returned information in a browser.
+
+### [8 Puzzle](https://github.com/shubmSingh/8-Puzzle)
+Java implementation of the N-puzzle problem using the A* search algorithm.
 
 ## Certifications
 
 - AWS Certified Solutions Architect – Associate
 - Backbase Backend Engineering Certified
 
-## Currently learning
+## Professional Interests
 
-- LLM application architecture, retrieval-augmented generation, and MCP
-- Distributed-systems design and production observability
+Java backend development, Spring Boot, RESTful web services, microservices architecture, event-driven systems, Apache Kafka, AWS, cloud-native applications, and distributed systems.
 
-## Connect
+## Additional Learning
 
-- [LinkedIn](https://www.linkedin.com/in/shubham-singh-8b05b8184/)
-- [Portfolio](https://shubmsingh.github.io/Shubhamsingh.github.io/)
-- [Email](mailto:Shubhammcmt@gmail.com)
-
----
-
-*For the best view of my work, start with the selected projects above. I’m continuing to improve project documentation, tests, and setup instructions.*
+Currently learning about LLM application architecture, retrieval-augmented generation (RAG), and the Model Context Protocol (MCP).
